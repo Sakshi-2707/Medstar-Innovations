@@ -1,2 +1,2 @@
-# Zealot-Pharmaceuticals
-The official website for pharmaceutical company: Zealot Pharmaceuticals
+# Medstar-Innovations
+The official website for medical device equipment manufacturing company: Medstar Innovations
